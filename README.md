@@ -1,6 +1,6 @@
 # <p align="center"> TED talks using Topic Modelling </p>
 By Banan Alhethlool | banan.alhethlool@gmail.com
-k
+
 ## Abstract
 
 Our aim is to use NLP to understand what words or topics make the most persuasive talks and if any relationships among them. Finally, we would like to build a linear regression model to predict the number of views. based on the TED.com dataset. TED is devoted to spreading powerful ideas in just about any topic. These datasets contain over 4,000 TED talks including transcripts in many languages.
